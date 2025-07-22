@@ -1,9 +1,12 @@
 # odin-recipes
 
+Welcome to my first website.
 
-This document outlines some various recipes for churros and brownies.
+I'm as surprised I actualy coded this as you are lol.
 
-In order to get the best value from our doc, each recipe shoudl be followed EXACTLY as written or they will not come out as planned.
+If there is anything you can learn from this site it is that if i can do it so can you!
+
+In order to get the best value from our doc, each recipe should be followed EXACTLY as written or they will not come out as planned.
 
 Make sure you remember to have and keep it light!
 
